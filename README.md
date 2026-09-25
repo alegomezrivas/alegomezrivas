@@ -63,6 +63,17 @@ Here are some ideas to get you started:
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
+## 🤝 Open Source Contributions
+
+<p>
+  <a href="https://github.com/fluttercandies/flutter_image_compress">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fluttercandies&repo=flutter_image_compress&theme=tokyonight&hide_border=true" />
+  </a>
+  <a href="https://github.com/mattermoran/map_launcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattermoran&repo=map_launcher&theme=tokyonight&hide_border=true" />
+  </a>
+</p>
+
 ## 📊 GitHub Stats
 
 <p>
