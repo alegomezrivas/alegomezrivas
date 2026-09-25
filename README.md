@@ -34,6 +34,7 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 
 <!-- Backend & data -->
@@ -41,7 +42,6 @@ Here are some ideas to get you started:
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -65,14 +65,8 @@ Here are some ideas to get you started:
 
 ## 🤝 Open Source Contributions
 
-<p>
-  <a href="https://github.com/fluttercandies/flutter_image_compress">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=fluttercandies&repo=flutter_image_compress&theme=tokyonight&hide_border=true" />
-  </a>
-  <a href="https://github.com/mattermoran/map_launcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=mattermoran&repo=map_launcher&theme=tokyonight&hide_border=true" />
-  </a>
-</p>
+- 🖼️ [**flutter_image_compress**](https://github.com/fluttercandies/flutter_image_compress) – Optimized image compression plugin for Flutter.
+- 🗺️ [**map_launcher**](https://github.com/mattermoran/map_launcher) – Plugin to open map apps and manage markers from Flutter apps.
 
 ## 📊 GitHub Stats
 
