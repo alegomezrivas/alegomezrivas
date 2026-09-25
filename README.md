@@ -13,17 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hola, soy Alejandro 👋
+### Hi, I'm Alejandro 👋
 
 ![Views](https://komarev.com/ghpvc/?username=alegomezrivas&label=VIEWS&color=0e75b6&style=for-the-badge)
 
-## 💫 Sobre mí
+## 💫 About Me
 
-- 📱 Desarrollador mobile especializado en **Flutter / Dart**
-- 🏗️ Trabajo con **Clean Architecture**, **Stacked**, **GoRouter** y **Reactive_forms**
-- 🌱 Siempre aprendiendo algo nuevo del ecosistema Flutter
+- 📱 Mobile developer specialized in **Flutter / Dart**
+- 🏗️ I work with **Clean Architecture**, **Stacked**, **GoRouter** and **Reactive_forms**
+- 🌱 Always learning something new in the Flutter ecosystem
 
-## 📫 Contacto
+## 📫 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arivas92)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alegomezrivas92@gmail.com)
@@ -40,6 +40,22 @@ Here are some ideas to get you started:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 ![REST](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge&logo=swagger&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<!-- Web -->
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Elementor](https://img.shields.io/badge/Elementor-92003B?style=for-the-badge&logo=elementor&logoColor=white)
+![Divi](https://img.shields.io/badge/Divi-8C49E9?style=for-the-badge&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css&logoColor=white)
 
 <!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
